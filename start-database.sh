@@ -2,7 +2,7 @@
 # Use this script to start a docker container for a local development database
 
 # TO RUN ON WINDOWS:
-# 1. Install WSL (Windows Subsystem for Linux) - https://learn.microsoft.com/en-us/windows/wsl/install
+# 1. Install WSL (Windows Su  bsystem for Linux) - https://learn.microsoft.com/en-us/windows/wsl/install
 # 2. Install Docker Desktop for Windows - https://docs.docker.com/docker-for-windows/install/
 # 3. Open WSL - `wsl`
 # 4. Run this script - `./start-database.sh`
